@@ -1,0 +1,16 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "Sample project with Jest tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
